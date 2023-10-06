@@ -14,3 +14,4 @@ This project is very first a little bit more serious of all stuff I have ever cr
 Well, that is it for the project, you are free to download and use it, I have launched this project via Vite, but you are free to use React Create App, it doesn't matter.
 Thank you for taking a look to this small beginner's project, God bless you.
 
+(Web-site)[https://651fabb066b2f7687c9f5cce--neon-druid-02c2db.netlify.app/] deployed on (Netlify)[https://www.netlify.com/] 
