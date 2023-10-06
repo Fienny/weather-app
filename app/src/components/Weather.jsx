@@ -57,14 +57,6 @@ function Weather({ data, setShowData, setBack, changeBg }) {
                             }
                             </p>
                         </div>
-                        <button className={"main-button"} onClick={
-                            () => {
-                                setBack(false);
-                                setShowData(false);
-                            }
-                        }>
-                            Go back
-                        </button>
                     </div>
                 </div>
             );

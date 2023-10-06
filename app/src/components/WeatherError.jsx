@@ -1,6 +1,6 @@
 import React from 'react';
 
-function WeatherError({ data, setBack, setShowData }) {
+function WeatherError({ data }) {
     return (
         <div className={"main-table-wrapper data"}>
             <p>
@@ -9,14 +9,6 @@ function WeatherError({ data, setBack, setShowData }) {
             <p>
                 Code: {data.errorCode}
             </p>
-            <button className={"main-button"} onClick={
-                () => {
-                    setBack(false);
-                    setShowData(false);
-                }
-            }>
-                Go back
-            </button>
         </div>
     );
 }
